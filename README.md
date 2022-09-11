@@ -45,12 +45,12 @@ object **Lucas** {
 ## **Contatos**
 
 <p align="left">
-<a href="https://api.whatsapp.com/send?phone=5519982621117&text=Ol%C3%A1%21+Lucas,%20tudo%20bem%20?&lang=pt_pt" alt="WhatsApp">
+<a href="https://api.whatsapp.com/send?phone=5519982621117&text=Ol%C3%A1%21+Lucas,%20tudo%20bem%20?&lang=pt_pt" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
-<a href="https://www.instagram.com/lspeixotof/" alt="Instagram">
+<a href="https://www.instagram.com/lspeixotof/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/lucassacramoni/" alt="Linkedin">
+ <a href="https://www.linkedin.com/in/lucassacramoni/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-   <a href="https://www.facebook.com/lspeixotof/" alt="Facebook">
+   <a href="https://www.facebook.com/lspeixotof/" alt="Facebook" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white"/></a>
 </p>
