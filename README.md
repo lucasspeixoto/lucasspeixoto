@@ -6,12 +6,19 @@ Sou um desenvolvedor de software que adora programar e ensinar outras pessoas de
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **Lucas** {
- val name = "Lucas Sacramoni Peixoto"
- val acknowledgements = "Desenvolvimento Web"
- val languages = listOf("Python", "JavaScript", "TypeScript", "Dart")
- val frameworks = listOf("Angular", "React", "Flutter")
+```typescript
+class Lucas {
+ public name: string; = "Lucas Sacramoni Peixoto"
+ public acknowledgements: string; = "Desenvolvimento Web"
+ public languages: string[] = ["Python", "JavaScript", "TypeScript", "Dart"]
+ public frameworks: string = ["Angular", "React", "Flutter"];
+
+ constructor(name: string, acknowledgements: string[], languages: string[], frameworks: string[]) {
+  this.name = name;
+  this.acknowledgements = acknowledgements;
+  this.languages = languages;
+  this.frameworks = frameworks;
+ }
 }
 ```
 
