@@ -10,7 +10,7 @@ Durante esta experiência como trainee foi iniciado uma especialização no dese
 
 Atualmente sigo me especializando no desenvolvimento Web e Mobile com foco em frontend com as ferramentas Angular, React e Flutter.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim - <a href="https://lucasspeixoto.github.io/profile" alt="Perfil Online" target="_blank">Perfil Online</a>
 
 <img align="right" width="300" height="275" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -57,7 +57,7 @@ class Lucas extend Developer {
 
 <br>
 
-## **Contatos** - <a href="https://lucasspeixoto.github.io/profile" alt="Perfil Online" target="_blank">Perfil Online</a>
+## **Contatos**
 
 <p align="left">
 <a href="https://api.whatsapp.com/send?phone=5519982621117&text=Ol%C3%A1%21+Lucas,%20tudo%20bem%20?&lang=pt_pt" alt="WhatsApp" target="_blank">
