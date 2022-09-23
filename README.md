@@ -57,7 +57,7 @@ class Lucas extend Developer {
 
 <br>
 
-## **Contatos** [Perfil Online](https://lucasspeixoto.github.io/profile)
+## **Contatos** - <a href="https://lucasspeixoto.github.io/profile" target="_blank">Perfil Online</a>
 
 <p align="left">
 <a href="https://api.whatsapp.com/send?phone=5519982621117&text=Ol%C3%A1%21+Lucas,%20tudo%20bem%20?&lang=pt_pt" alt="WhatsApp" target="_blank">
