@@ -8,7 +8,7 @@ Sou um desenvolvedor de software que adora programar e ensinar outras pessoas de
 
 ```typescript
 class Lucas extend Developer {
- public name: string; = "Lucas Sacramoni Peixoto"
+ public readonly name: string; = "Lucas Sacramoni Peixoto"
  public acknowledgements: string; = "Desenvolvimento Web"
  public languages: string[] = ["Python", "JavaScript", "TypeScript", "Dart"]
  public frameworks: string = ["Angular", "React", "Flutter"];
