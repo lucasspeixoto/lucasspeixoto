@@ -52,7 +52,7 @@ class Lucas extend Developer {
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="top" src="https://github-readme-stats.vercel.app/api?username=lucasspeixoto&show_icons=true&theme=dracula&line_height=27" alt="**Lucas Peixoto** github stats"/>
+ <img align="top" src="https://github-readme-stats.vercel.app/api?username=lucasspeixoto&show_icons=true&theme=dracula&line_height=36" alt="**Lucas Peixoto** github stats"/>
 </a>
 
 <br>
