@@ -48,11 +48,11 @@ class Lucas extend Developer {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasspeixoto&theme=dracula&line_height=40&hide_langs_below=1" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasspeixoto&theme=dracula&line_height=40&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="top" width="40%" src="https://github-readme-stats.vercel.app/api?username=lucasspeixoto&show_icons=true&theme=dracula&line_height=40" alt="**Lucas Peixoto** github stats"/>
+ <img align="top" src="https://github-readme-stats.vercel.app/api?username=lucasspeixoto&show_icons=true&theme=dracula&line_height=40" alt="**Lucas Peixoto** github stats"/>
 </a>
 
 <br>
