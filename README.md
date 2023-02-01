@@ -18,8 +18,8 @@ Atualmente sigo me especializando no desenvolvimento Web e Mobile com foco em fr
 class Lucas extend Developer {
  public readonly name: string; = "Lucas Sacramoni Peixoto"
  public acknowledgements: string; = "Desenvolvimento Web"
- public languages: string[] = ["Python", "JavaScript", "TypeScript", "Dart"]
- public frameworks: string = ["Angular", "React", "Flutter"];
+ public languages: string[] = ["Python", "JavaScript", "TypeScript", "Java", "Dart"]
+ public frameworks: string = ["Angular", "React", "Flutter", "Django", "Spring Boot"];
 
  constructor(name: string, acknowledgements: string[], languages: string[], frameworks: string[]) {
   this.name = name;
@@ -40,7 +40,7 @@ class Lucas extend Developer {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/spring.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
