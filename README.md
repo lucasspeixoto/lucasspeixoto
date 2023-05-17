@@ -71,3 +71,7 @@ class Lucas extend Developer {
    <a href="https://www.facebook.com/lspeixotof/" alt="Facebook" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white"/></a>
 </p>
+
+## **Projetos**
+
+ ![Snake animation](https://github.com/lucasspeixoto/lucasspeixoto/blob/output/github-contribution-grid-snake.svg)
