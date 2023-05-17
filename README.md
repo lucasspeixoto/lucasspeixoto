@@ -15,11 +15,11 @@ Atualmente sigo me especializando no desenvolvimento Web e Mobile com foco em fr
 <img align="right" width="300" height="275" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```typescript
-class Lucas extend Developer {
+class Lucas extends Developer {
  public readonly name: string; = "Lucas Sacramoni Peixoto"
  public acknowledgements: string; = "Desenvolvimento Web"
- public languages: string[] = ["Python", "JavaScript", "TypeScript", "Java", "Dart"]
- public frameworks: string = ["Angular", "React", "Flutter", "Django", "Spring Boot"];
+ public languages: string[] = ["Python", "JavaScript", "TypeScript", "Java"]
+ public frameworks: string = ["Angular", "React", "Spring Boot", "Django"];
 
  constructor(name: string, acknowledgements: string[], languages: string[], frameworks: string[]) {
   this.name = name;
@@ -71,7 +71,3 @@ class Lucas extend Developer {
    <a href="https://www.facebook.com/lspeixotof/" alt="Facebook" target="_blank">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white"/></a>
 </p>
-
-## **Projetos**
-
- ![Snake animation](https://github.com/lucasspeixoto/lucasspeixoto/blob/output/github-contribution-grid-snake.svg)
