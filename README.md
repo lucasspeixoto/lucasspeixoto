@@ -19,7 +19,7 @@ class Lucas extends Developer {
  public readonly name: string; = "Lucas Sacramoni Peixoto"
  public acknowledgements: string; = "Desenvolvimento Web"
  public languages: string[] = ["Python", "JavaScript", "TypeScript", "Java"]
- public frameworks: string = ["Angular", "React", "Spring Boot", "Django"];
+ public frameworks: string = ["Angular", "React", "Spring Boot", "NextJs"];
 
  constructor(name: string, acknowledgements: string[], languages: string[], frameworks: string[]) {
   this.name = name;
