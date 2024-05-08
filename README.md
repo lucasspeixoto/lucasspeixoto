@@ -1,5 +1,8 @@
 ### Olá 👋
 
+## **Daily Dev**
+<a href="https://app.daily.dev/lspeixotodev"><img src="https://api.daily.dev/devcards/v2/ghliapZ20IFzFFlgjqI7p.png?r=r48&type=default" width="356" alt="Lucas Sacramoni Peixoto Fernandes's Dev Card"/></a>
+
 Formado em Engenharia Agrícola pela Universidade Estadual de Campinas (Unicamp), com mestrado em Modelagem Estrutural de Vigas de Madeira Laminada Colada Armada (MLCA).
 
 O primeiro contato com programação veio em 2015, com a linguagem Python. Já em 2020 iniciando a carreira na área de programação, foram desenvolvidas diversas rotinas de automatização para equipes, com foco em otimização de tempo e redução de mão de obra para envio de e-mails, tratamento de dados e RPAs. Durante esta experiência como trainee iniciei uma especialização no desenvolvimento web, com foco no frontend.
@@ -57,9 +60,6 @@ class Lucas extends Developer {
 </a>
 
 <br>
-
-## **Daily Dev**
-<a href="https://app.daily.dev/lspeixotodev"><img src="https://api.daily.dev/devcards/v2/ghliapZ20IFzFFlgjqI7p.png?r=r48&type=default" width="356" alt="Lucas Sacramoni Peixoto Fernandes's Dev Card"/></a>
 
 ## **Contatos**
 
