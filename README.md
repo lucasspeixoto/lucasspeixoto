@@ -9,7 +9,7 @@ Atualmente sigo me especializando no desenvolvimento Web com foco em Spring Boot
 
 Além disso, atuo como mentor de desenvolvedores que estão iniciando a carreira.
 
-<a href="https://app.daily.dev/lspeixotodev"><img src="https://api.daily.dev/devcards/v2/ghliapZ20IFzFFlgjqI7p.png?r=r48&type=default" width="356" alt="Lucas Sacramoni Peixoto Fernandes's Dev Card"/></a>
+<a href="https://app.daily.dev/lspeixotodev"><img src="https://api.daily.dev/devcards/v2/ghliapZ20IFzFFlgjqI7p.png?type=default&r=nh0" width="356" alt="Lucas Sacramoni Peixoto Fernandes's Dev Card"/></a>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim - <a href="https://lucas-peixoto-perfil.vercel.app" alt="Perfil Online" target="_blank">Perfil Online</a>
 
