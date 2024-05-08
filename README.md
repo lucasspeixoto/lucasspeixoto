@@ -58,6 +58,9 @@ class Lucas extends Developer {
 
 <br>
 
+## **Daily Dev**
+<a href="https://app.daily.dev/lspeixotodev"><img src="https://api.daily.dev/devcards/v2/ghliapZ20IFzFFlgjqI7p.png?r=r48&type=default" width="356" alt="Lucas Sacramoni Peixoto Fernandes's Dev Card"/></a>
+
 ## **Contatos**
 
 <p align="left">
