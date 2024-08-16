@@ -95,23 +95,23 @@ class Lucas extends Developer {
  <table align="center">
    <tr>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
       <br>AWS
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=kafka" width="45" height="45" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=kafka" width="55" height="55" alt="Kafka" />
       <br>Kafka
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" width="45" height="45" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="55" height="55" alt="RabbitMQ" />
       <br>RabbitMQ
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker" />
       <br>Docker
     </td>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RESTful API" width="55" height="55" />
       <br>RESTful API
     </td>
   </tr>
