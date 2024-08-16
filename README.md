@@ -55,7 +55,6 @@ class Lucas extends Developer {
    </tr>
  </table>
 </p>
-<hr>
 <br>
 </div>
 
@@ -87,7 +86,6 @@ class Lucas extends Developer {
   </tr> 
  </table>
 </p>
-<hr>
 <br>
 </div>
 
@@ -170,7 +168,6 @@ class Lucas extends Developer {
   </tr>
  </table>
 </p>
-<hr>
 <br>
 </div>
 
