@@ -63,20 +63,20 @@ class Lucas extends Developer {
 <p align="center">
  <table align="center">
    <tr>
-     <td align="center" width="90">
-       <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring" />
+     <td align="center" width="120">
+       <img src="https://skillicons.dev/icons?i=spring" width="55" height="55" alt="Spring" />
        <br>Spring Boot
      </td>
-     <td align="center" width="90">
-       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+     <td align="center" width="120">
+       <img src="https://skillicons.dev/icons?i=angular" width="55" height="55" alt="Angular" />
        <br>Angular
      </td>
-     <td align="center" width="90">
-       <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
+     <td align="center" width="120">
+       <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React" />
        <br>React
      </td>
-    <td align="center" width="90">
-       <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
+    <td align="center" width="120">
+       <img src="https://skillicons.dev/icons?i=flutter" width="55" height="55" alt="Flutter" />
        <br>Flutter
      </td>
    </tr>
