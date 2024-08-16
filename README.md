@@ -68,7 +68,7 @@ class Lucas extends Developer {
        <br>Spring Boot
      </td>
      <td align="center" width="90">
-       <img src="https://techstack-generator.vercel.app/angular-icon.svg" alt="Angular" width="55" height="55" />
+       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
        <br>Angular
      </td>
      <td align="center" width="90">
