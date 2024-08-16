@@ -31,7 +31,7 @@ class Lucas extends Developer {
 }
 ```
 
-## **Linguagens de programação:**
+## **Linguagens de programação**
 
 <p align="center">
  <table align="center">
@@ -58,7 +58,7 @@ class Lucas extends Developer {
 <br>
 </div>
 
-## **Frameworks:**
+## **Frameworks**
 
 <p align="center">
  <table align="center">
@@ -89,7 +89,7 @@ class Lucas extends Developer {
 <br>
 </div>
 
-## **Outras:**
+## **Outras**
 
 <p align="center">
  <table align="center">
