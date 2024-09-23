@@ -114,10 +114,6 @@ class Lucas extends Developer {
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
       <br>Redux
     </td>
-   <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/react-query-icon.svg" alt="icon" width="55" height="55" />
-      <br>React Query
-    </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
       <br>Node.js
