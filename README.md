@@ -97,10 +97,6 @@ class Lucas extends Developer {
       <br>AWS
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=kafka" width="55" height="55" alt="Kafka" />
-      <br>Kafka
-    </td>
-    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=rabbitmq" width="55" height="55" alt="RabbitMQ" />
       <br>RabbitMQ
     </td>
