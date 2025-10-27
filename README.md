@@ -78,6 +78,10 @@ class Lucas extends Developer {
        <br>Next.js
      </td>
     <td align="center" width="120">
+       <img src="https://skillicons.dev/icons?i=reactnative" width="55" height="55" alt="React Native" />
+       <br>React Native
+     </td>
+    <td align="center" width="120">
        <img src="https://skillicons.dev/icons?i=flutter" width="55" height="55" alt="Flutter" />
        <br>Flutter
      </td>
