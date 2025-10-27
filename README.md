@@ -16,9 +16,9 @@ Além disso, atuo como mentor de desenvolvedores que estão iniciando a carreira
 ```typescript
 class Lucas extends Developer {
  public readonly name: string; = "Lucas Sacramoni Peixoto Fernandes"
- public acknowledgements: string; = "Desenvolvimento Web"
+ public acknowledgements: string; = "Sênior Software Developer"
  public languages: string[] = ["Java", "JavaScript", "TypeScript", "Python"]
- public frameworks: string = ["Angular", "React", "Spring Boot", "NextJs"];
+ public frameworks: string = ["Angular", "React", "NextJs", "React Native", "Spring Boot"];
 
  constructor(name: string, acknowledgements: string[], languages: string[], frameworks: string[]) {
   this.name = name;
